@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="name_user">Nama User</string>
+    <string name="username">Risman Abdilah</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="none"> </string>
+    <string name="detail">Detail Activity</string>
+
+    <string-array name="data_name">
+        <item>Abdul Hakim</item>
+        <item>Agung Maulana</item>
+        <item>Angga Risky</item>
+        <item>Bambang M Azhari</item>
+        <item>Dyah</item>
+        <item>Evan You</item>
+        <item>Ihwan</item>
+        <item>Muh Rifai</item>
+        <item>Radifan Mardhi Prana</item>
+        <item>Rizqullah T</item>
+        <item>Saefulloh Maslul</item>
+        <item>Sandhika Galih</item>
+    </string-array>
+
+    <string-array name="data_username">
+        <item>akimabs</item>
+        <item>Fakkuroqobah</item>
+        <item>anggarisky</item>
+        <item>illusi03</item>
+        <item>dyahnrchls</item>
+        <item>yyx990803</item>
+        <item>IhwanID</item>
+        <item>muhrifai7</item>
+        <item>radifanmp</item>
+        <item>eryzerz</item>
+        <item>saefullohmaslul</item>
+        <item>sandhikagalih</item>
+    </string-array>
+
+    <string-array name="data_avatar">
+        <item>@drawable/abdulhakim</item>
+        <item>@drawable/agung</item>
+        <item>@drawable/anggarisky</item>
+        <item>@drawable/bambangma</item>
+        <item>@drawable/dyah</item>
+        <item>@drawable/evanyou</item>
+        <item>@drawable/ihwan</item>
+        <item>@drawable/muhrifai</item>
+        <item>@drawable/radifmp</item>
+        <item>@drawable/rizqullah</item>
+        <item>@drawable/saefullohmaslul</item>
+        <item>@drawable/sandikagalih</item>
+    </string-array>
+
+    <string-array name="data_company">
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>vuejs</item>
+        <item>majalengkadev</item>
+        <item>-</item>
+        <item>-</item>
+        <item>PT. Eannovate Creative Technology</item>
+        <item>hobikoding</item>
+        <item>Pasundan University Bandung</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>South Tangerang</item>
+        <item>Indonesia</item>
+        <item>Jakarta</item>
+        <item>Indonesia</item>
+        <item>-</item>
+        <item>New Jersey ⇄ China</item>
+        <item>West Java, Indonesia</item>
+        <item>Jakarta, Indonesia</item>
+        <item>Jawa Barat</item>
+        <item>-</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+    </string-array>
+
+    <string-array name="data_repository">
+        <item>https://github.com/akimabs</item>
+        <item>https://github.com/Fakkuroqobah</item>
+        <item>https://github.com/anggarisky</item>
+        <item>https://github.com/illusi03</item>
+        <item>https://github.com/dyahnrchls</item>
+        <item>https://github.com/yyx990803</item>
+        <item>https://github.com/IhwanID</item>
+        <item>https://github.com/muhrifai7</item>
+        <item>https://github.com/radifanmp</item>
+        <item>https://github.com/eryzerz</item>
+        <item>https://github.com/saefullohmaslul</item>
+        <item>https://github.com/sandhikagalih</item>
+    </string-array>
+
+    <string-array name="data_follower">
+        <item>11</item>
+        <item>4</item>
+        <item>600</item>
+        <item>17</item>
+        <item>9</item>
+        <item>59.9k</item>
+        <item>355</item>
+        <item>6</item>
+        <item>22</item>
+        <item>4</item>
+        <item>30</item>
+        <item>2.4k</item>
+    </string-array>
+
+    <string-array name="data_following">
+        <item>25</item>
+        <item>3</item>
+        <item>2</item>
+        <item>35</item>
+        <item>12</item>
+        <item>93</item>
+        <item>75</item>
+        <item>10</item>
+        <item>23</item>
+        <item>15</item>
+        <item>17</item>
+        <item>2</item>
+    </string-array>
+
+</resources>
